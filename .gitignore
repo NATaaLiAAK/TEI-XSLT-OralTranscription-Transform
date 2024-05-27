@@ -158,3 +158,89 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# Python.gitignore with VS Code exclusions and additional exclusions
+
+# General Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Ignorer les fichiers temporaires et de sauvegarde
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Ignorer les sorties de transformation (HTML, PDF, etc.)
+/output/
+/*.html
+/*.pdf
+
+# Ignorer les fichiers de configuration utilisateur
+*.env
+.env.local
+.DS_Store
+Thumbs.db
