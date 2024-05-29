@@ -65,6 +65,84 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>elle n'en considère</orig><reg>elles n'en considèrent</reg></choice>
 
+<choice><orig>conveni</orig><reg>mené</reg></choice>
+
+<choice><orig>je serai</orig><reg>j'essaierai</reg></choice>
+
+<choice><orig>donné</orig><reg>de… donner</reg></choice>
+
+<choice><orig>ces</orig><reg>ses</reg></choice>
+
+<choice><orig>adosent</orig><reg>adossent</reg></choice>
+
+<choice><orig>libats</orig><reg>débats</reg></choice>
+
+<choice><orig>sensor</orig><reg>censeur</reg></choice>
+
+<choice><orig>jeûtenant</orig><reg>lieutenant</reg></choice>
+
+<choice><orig>Soir</orig><reg>Suarge</reg></choice>
+
+<choice><orig>ou</orig><reg>août</reg></choice>
+
+<choice><orig>installe</orig><reg>instaure</reg></choice>
+
+<choice><orig>théâtre</orig><reg>théâtres</reg></choice>
+
+<choice><orig>représente très</orig><reg>représenterait</reg></choice>
+
+<choice><orig>aussi dire</orig><reg>considérer</reg></choice>
+
+<choice><orig>le bon appart</orig><reg>Bonaparte</reg></choice>
+
+<choice><orig>Et</orig><reg>Il</reg></choice>
+
+<choice><orig>intéressent</orig><reg>intéresse</reg></choice>
+
+<choice><orig>tel</orig><reg>tels</reg></choice>
+
+<choice><orig>sont tous</orig><reg>et surtout</reg></choice>
+
+<choice><orig>sont</orig><reg>seront</reg></choice>
+
+<choice><orig>comme une fois</orig><reg>encore une fois,</reg></choice>
+
+<choice><orig>précis</orig><reg>précisent</reg></choice>
+
+<choice><orig>où on parle</orig><reg>ou en bal</reg></choice>
+
+<choice><orig>senseurs</orig><reg>censeurs</reg></choice>
+
+<choice><orig>senseurs</orig><reg>censeurs</reg></choice>
+
+<choice><orig>à la location</orig><reg>à l'occasion</reg></choice>
+
+<choice><orig>Le site des</orig><reg>Je cite : "Les</reg></choice>
+
+<choice><orig>sous-conformant</orig><reg>se conformant</reg></choice>
+
+<choice><orig>à boutils sont 31 un projet de loi</orig><reg>aboutissent en 1831 à des projets de loi</reg></choice>
+
+<choice><orig>rétabli</orig><reg>établis</reg></choice>
+
+<choice><orig>le roi sami, le</orig><reg>"Le Roi s'amuse" de</reg></choice>
+
+<choice><orig>la comédie française</orig><reg>la Comédie-Française</reg></choice>
+
+<choice><orig>la comédie française</orig><reg>la Comédie-Française</reg></choice>
+
+<choice><orig>l'association</orig><reg>la censure</reg></choice>
+
+<choice><orig>Odile Krakowicz</orig><reg>Odile Krakovitch</reg></choice>
+
+<choice><orig>spécialistée sociothéâtrale</orig><reg>spécialiste des…, de la censure théâtrale</reg></choice>
+
+<choice><orig>roi sami</orig><reg>"Roi s'amuse"</reg></choice>
+
+
+
+
+
 
 
 ```
