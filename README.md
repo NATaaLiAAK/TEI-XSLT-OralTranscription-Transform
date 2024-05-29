@@ -9,9 +9,9 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>Désil</orig><reg>Désile</reg></choice>
 
-<choice><orig>est un cotoyon</orig><reg>, euh… nous côtoyons</reg></choice>
+<choice><orig>est un cotoyon</orig><reg>, euh …, nous côtoyons</reg></choice>
 
-<choice><orig>Aryas</orig><reg>ARIAS, hein…</reg></choice>
+<choice><orig>Aryas</orig><reg>ARIAS, hein …</reg></choice>
 
 <choice><orig>ce travail nous intéresse</orig><reg>ces travaux nous intéressent</reg></choice>
 
@@ -29,9 +29,11 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>tour</orig><reg>ton</reg></choice>
 
+<choice><orig>couvoir</orig><reg>pouvoir</reg></choice>
+
 <choice><orig>un remettre</orig><reg>à un</reg></choice>
 
-<choice><orig>le songe</orig><reg>ils le songent</reg></choice>
+<choice><orig> le songe</orig><reg>, ils le songent</reg></choice>
 
 <choice><orig>curil</orig><reg>puéril</reg></choice>
 
@@ -53,11 +55,13 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>le</orig><reg>la</reg></choice>
 
-<choice><orig>renhébérangé</orig><reg>Rede Béranger</reg></choice>
+<choice><orig>renhébérangé</orig><reg>René Bérenger</reg></choice>
 
 <choice><orig>bulle y-bondrille sous les tâmes</orig><reg>pudibonderie souhaitable</reg></choice>
 
 <choice><orig>au lieu</orig><reg>aux jeux</reg></choice>
+
+<choice><orig>, de groupe, de pression</orig><reg> ou de groupe de pression</reg></choice>
 
 <choice><orig>traversées</orig><reg>traversée</reg></choice>
 
@@ -65,13 +69,17 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>elle n'en considère</orig><reg>elles n'en considèrent</reg></choice>
 
+<choice><orig>décisive</orig><reg>décisif</reg></choice>
+
 <choice><orig>conveni</orig><reg>mené</reg></choice>
 
 <choice><orig>je serai</orig><reg>j'essaierai</reg></choice>
 
-<choice><orig>donné</orig><reg>de… donner</reg></choice>
+<choice><orig>donné</orig><reg>de … donner</reg></choice>
 
 <choice><orig>ces</orig><reg>ses</reg></choice>
+
+<choice><orig>au-dessus de certains</orig><reg>aux yeux de certains</reg></choice>
 
 <choice><orig>adosent</orig><reg>adossent</reg></choice>
 
@@ -135,9 +143,24 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>Odile Krakowicz</orig><reg>Odile Krakovitch</reg></choice>
 
-<choice><orig>spécialistée sociothéâtrale</orig><reg>spécialiste des…, de la censure théâtrale</reg></choice>
+<choice><orig>spécialistée sociothéâtrale</orig><reg>spécialiste des …, de la censure théâtrale</reg></choice>
 
 <choice><orig>roi sami</orig><reg>"Roi s'amuse"</reg></choice>
+
+<choice><orig>l'attentat de Fieski</orig><reg>Fieschi</reg></choice>
+
+<choice><orig>rétabli</orig><reg>rétablie …</reg></choice>
+
+<choice><orig>étaient</orig><reg>avaient été</reg></choice>
+
+<choice><orig>censurés</orig><reg>censurées</reg></choice>
+
+<choice><orig>Jules Jannin</orig><reg>Jules Janin</reg></choice>
+
+<choice><orig>sur tous les</orig><reg>surtout des</reg></choice>
+
+<choice><orig>tantis</orig><reg>tranquilles</reg></choice>
+
 
 
 
