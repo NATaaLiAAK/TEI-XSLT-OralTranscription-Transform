@@ -161,6 +161,30 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>tantis</orig><reg>tranquilles</reg></choice>
 
+<choice><orig>renébéranger</orig><reg>René Bérenger :</reg></choice>
+
+<choice><orig>la</orig><reg>une</reg></choice>
+
+<choice><orig>Théophile Gauthier</orig><reg>Théophile Gautier</reg></choice>
+
+<choice><orig>senseurs</orig><reg>censeurs</reg></choice>
+
+<choice><orig>Victor Gault</orig><reg>Victor Hugo</reg></choice>
+
+<choice><orig>c'est rien les cartons,</orig><reg>parce que ça ne sert à rien, les cartons,</reg></choice>
+
+<choice><orig>, le directeur de théâtre</orig><reg> : « Les directeurs de théâtres »</reg></choice>
+
+<choice><orig>on va spéculer</orig><reg>« ont spéculé »</reg></choice>
+
+<choice><orig>Le nom a éboté</orig><reg>Le nom est évoqué</reg></choice>
+
+<choice><orig>1050</orig><reg>1850</reg></choice>
+
+<choice><orig>1052</orig><reg>1852</reg></choice>
+
+
+
 
 
 
