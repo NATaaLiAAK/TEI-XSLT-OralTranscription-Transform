@@ -183,7 +183,45 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>1052</orig><reg>1852</reg></choice>
 
+<choice><orig>quatre concerts</orig><reg>café-concerts</reg></choice>
 
+<choice><orig>la reprise</orig><reg>il y aura une reprise</reg></choice>
+
+<choice><orig>de la résonance de la théâtre</orig><reg>du « Lorenzaccio »</reg></choice>
+
+<choice><orig>ont voulu, il y a beaucoup de cafés concières aussi</orig><reg>vont ouvrir et beaucoup de café-concerts aussi</reg></choice>
+
+<choice><orig>les chansons qui a fait conserver</orig><reg>les chansons qu’a faites le concert</reg></choice>
+
+<choice><orig>nous en avons gardé fait</orig><reg>cette mesure n'a guère d'effet</reg></choice>
+
+<choice><orig>le marchade de MacMahon</orig><reg>le maréchal de Mac Mahon</reg></choice>
+
+<choice><orig>de 1711</orig><reg>1871</reg></choice>
+
+<choice><orig>dans la légalité douteuse</orig><reg>dont la légalité est douteuse</reg></choice>
+
+<choice><orig>le marchade de</orig><reg>le maréchal, devenu</reg></choice>
+
+<choice><orig>de 1714</orig><reg>1874</reg></choice>
+
+<choice><orig>1774</orig><reg>1874</reg></choice>
+
+<choice><orig>c'est-à-dire</orig><reg>je dirais,</reg></choice>
+
+<choice><orig>1719</orig><reg>1879</reg></choice>
+
+<choice><orig>son fonction</orig><reg>ses fonctions</reg></choice>
+
+<choice><orig>de manière modérée</orig><reg>d'une manière très modérée</reg></choice>
+
+<choice><orig>Il n'y aura pas du tout de même ensuite</orig><reg>Il n'y sera pas du tout de même ensuite</reg></choice>
+
+<choice><orig>établir</orig><reg>rétablir</reg></choice>
+
+<choice><orig>les meurs</orig><reg>les mœurs</reg></choice>
+
+<choice><orig>distirait</orig><reg>distillerait</reg></choice>
 
 
 
