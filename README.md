@@ -9,7 +9,7 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>Désil</orig><reg>Désile</reg></choice>
 
-<choice><orig>est un cotoyon</orig><reg>, euh …, nous côtoyons</reg></choice>
+<choice><orig>est un cotoyon</orig><reg>, euh … nous côtoyons</reg></choice>
 
 <choice><orig>Aryas</orig><reg>ARIAS, hein …</reg></choice>
 
@@ -125,7 +125,7 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>à la location</orig><reg>à l'occasion</reg></choice>
 
-<choice><orig>Le site des</orig><reg>Je cite : "Les</reg></choice>
+<choice><orig>Le site des</orig><reg>Je cite : « Les</reg></choice>
 
 <choice><orig>sous-conformant</orig><reg>se conformant</reg></choice>
 
@@ -133,7 +133,7 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>rétabli</orig><reg>établis</reg></choice>
 
-<choice><orig>le roi sami, le</orig><reg>"Le Roi s'amuse" de</reg></choice>
+<choice><orig>le roi sami, le</orig><reg>« Le Roi s'amuse » de</reg></choice>
 
 <choice><orig>la comédie française</orig><reg>la Comédie-Française</reg></choice>
 
@@ -143,9 +143,9 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>Odile Krakowicz</orig><reg>Odile Krakovitch</reg></choice>
 
-<choice><orig>spécialistée sociothéâtrale</orig><reg>spécialiste des …, de la censure théâtrale</reg></choice>
+<choice><orig>spécialistée sociothéâtrale</orig><reg>spécialiste des … de la censure théâtrale</reg></choice>
 
-<choice><orig>roi sami</orig><reg>"Roi s'amuse"</reg></choice>
+<choice><orig>roi sami</orig><reg>« Roi s'amuse »</reg></choice>
 
 <choice><orig>l'attentat de Fieski</orig><reg>Fieschi</reg></choice>
 
@@ -222,6 +222,78 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 <choice><orig>les meurs</orig><reg>les mœurs</reg></choice>
 
 <choice><orig>distirait</orig><reg>distillerait</reg></choice>
+
+<choice><orig>se sont succédés,</orig><reg>se sont succédé</reg></choice>
+
+<choice><orig>il est très</orig><reg>même aux illettrés</reg></choice>
+
+<choice><orig>des apropos</orig><reg>des à-propos</reg></choice>
+
+<choice><orig>mointain</orig><reg>lointain</reg></choice>
+
+<choice><orig>constitue</orig><reg>constituent</reg></choice>
+
+<choice><orig>trouver</orig><reg>troubles</reg></choice>
+
+<choice><orig>Bali</orig><reg>Bailly</reg></choice>
+
+<choice><orig>Bali</orig><reg>Bailly,</reg></choice>
+
+<choice><orig>en chanque</orig><reg>en charge</reg></choice>
+
+<choice><orig>d'une taille</orig><reg>… note de la censure … enfin, …</reg></choice>
+
+<choice><orig>Bali</orig><reg>Bailly</reg></choice>
+
+<choice><orig>Bali</orig><reg>Bailly</reg></choice>
+
+<choice><orig>et</orig><reg>est</reg></choice>
+
+<choice><orig>s'électrissent</orig><reg>s'électrisent</reg></choice>
+
+<choice><orig>les meurs</orig><reg>les mœurs</reg></choice>
+
+<choice><orig>senseurs</orig><reg>censeurs</reg></choice>
+
+<choice><orig>se sont succédés</orig><reg>se sont succédé</reg></choice>
+
+<choice><orig>senseur</orig><reg>censeur</reg></choice>
+
+<choice><orig>Victor Ale Dabo</orig><reg>Victor Hallays-Dabot</reg></choice>
+
+<choice><orig>senseur</orig><reg>censeur</reg></choice>
+
+<choice><orig>le second empire</orig><reg>le Second Empire</reg></choice>
+
+<choice><orig>la troisième république</orig><reg>la Troisième République</reg></choice>
+
+<choice><orig>entre l'écrire et le théâtre</orig><reg>entre l'écrit et le théâtre</reg></choice>
+
+<choice><orig>et qui est en partie du XIXe siècle</orig><reg>et pendant une grande partie du XIXe siècle</reg></choice>
+
+<choice><orig>histoire de la censure</orig><reg>« Histoire de la censure » :</reg></choice>
+
+<choice><orig>éclose</orig><reg>éclot</reg></choice>
+
+<choice><orig>attentives aux spectacles qui se déroulent</orig><reg>attentives au spectacle qui se déroule</reg></choice>
+
+<choice><orig>physionomies altantes</orig><reg>physionomies haletantes</reg></choice>
+
+<choice><orig>refaitent</orig><reg>reflètent</reg></choice>
+
+<choice><orig>les conclusions d'une logique parfois imprévues</orig><reg>les conclusions d'une logique parfois imprévue</reg></choice>
+
+<choice><orig>avec quelle énergie de puissance</orig><reg>avec quelle énergique puissance</reg></choice>
+
+<choice><orig>le théâtre, sans part des imaginations populaires</orig><reg>le théâtre s'empare des imaginations populaires</reg></choice>
+
+<choice><orig>qu'elle germe</orig><reg>quel germe,</reg></choice>
+
+<choice><orig>tout</orig><reg>tous deux</reg></choice>
+
+<choice><orig>Chacun de pris isolément et doux faciles parfois craintifs</orig><reg>Chacun d'eux pris isolément est doux, facile, parfois craintif;</reg></choice>
+
+<choice><orig>en face d'une bande ardite à pâcheuse souvent méchante</orig><reg>en face d'une bande hardie, tapageuse, souvent méchante</reg></choice>
 
 
 
