@@ -295,7 +295,35 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>en face d'une bande ardite à pâcheuse souvent méchante</orig><reg>en face d'une bande hardie, tapageuse, souvent méchante</reg></choice>
 
+<choice><orig>elle aide d'abord à</orig><reg>Victor Hallays-Dabot</reg></choice>
 
+<choice><orig>le bien fondé</orig><reg>le bien-fondé</reg></choice>
+
+<choice><orig>la commune</orig><reg>la Commune</reg></choice>
+
+<choice><orig>la semaine sanglante</orig><reg>la Semaine sanglante</reg></choice>
+
+<choice><orig>la commune</orig><reg>la Commune</reg></choice>
+
+<choice><orig>tout le monde a présent à l'esprit</orig><reg>tout le monde a à présent à l'esprit</reg></choice
+
+<choice><orig>au théâtre de la monnaie la maître de Portici</orig><reg>au Théâtre de la Monnaie, euh … « la Muette de Portici »</reg></choice>
+
+<choice><orig>deux ans par avant</orig><reg>deux ans auparavant</reg></choice>
+
+<choice><orig>au Père d'Auber, de Scrib et de la Vie</orig><reg>opéra d'Auber, de Scribe et Delavigne</reg></choice>
+
+<choice><orig>une vote</orig><reg>la révolte</reg></choice>
+
+<choice><orig>la maître de Portici</orig><reg>« la Muette de Portici »</reg></choice>
+
+<choice><orig>c'est l'air le plus célèbre</orig><reg>c'est le vers le plus célèbre : «</reg></choice>
+
+<choice><orig>vous ne le chante pas</orig><reg>je ne vous le chante pas, hein …</reg></choice>
+
+<choice><orig>la maître de Portici</orig><reg>« la Muette de Portici »</reg></choice>
+
+<choice><orig>les senseurs</orig><reg>les censeurs</reg></choice>3
 
 
 
