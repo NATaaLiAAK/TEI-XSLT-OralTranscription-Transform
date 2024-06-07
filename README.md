@@ -307,7 +307,7 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>tout le monde a présent à l'esprit</orig><reg>tout le monde a à présent à l'esprit</reg></choice
 
-<choice><orig>au théâtre de la monnaie la maître de Portici</orig><reg>au Théâtre de la Monnaie, euh … « la Muette de Portici »</reg></choice>
+<choice><orig>au théâtre de la monnaie la maître de Portici</orig><reg>au Théâtre de la Monnaie, euh … « La Muette de Portici »</reg></choice>
 
 <choice><orig>deux ans par avant</orig><reg>deux ans auparavant</reg></choice>
 
@@ -315,15 +315,37 @@ A project for transcribing oral discourse using TEI and transforming the transcr
 
 <choice><orig>une vote</orig><reg>la révolte</reg></choice>
 
-<choice><orig>la maître de Portici</orig><reg>« la Muette de Portici »</reg></choice>
+<choice><orig>la maître de Portici</orig><reg>« La Muette de Portici »</reg></choice>
 
-<choice><orig>c'est l'air le plus célèbre</orig><reg>c'est le vers le plus célèbre : «</reg></choice>
+<choice><orig>rend-nous</orig><reg>rends-nous</reg></choice>
 
-<choice><orig>vous ne le chante pas</orig><reg>je ne vous le chante pas, hein …</reg></choice>
+<choice><orig>c'est l'air le plus célèbre</orig><reg>C'est le vers le plus célèbre : «</reg></choice>
 
-<choice><orig>la maître de Portici</orig><reg>« la Muette de Portici »</reg></choice>
+<choice><orig>vous ne le chante pas</orig><reg>Je ne vous le chante pas, hein …</reg></choice>
 
-<choice><orig>les senseurs</orig><reg>les censeurs</reg></choice>3
+<choice><orig>« courons à la vengeance des armes des flambeaux »</orig><reg>« Courons à la vengeance ! Des armes, des flambeaux ! »</reg></choice>
+
+<choice><orig>criditons</orig><reg>crient, dit-on,</reg></choice>
+
+<choice><orig>aux armes,</orig><reg>« Aux armes ! »</reg></choice>
+
+<choice><orig>« Le journal de la liberté »</orig><reg>« Le Journal de la Liberté »</reg></choice>
+
+<choice><orig>la maître de Portici</orig><reg>« La Muette de Portici »</reg></choice>
+
+<choice><orig>les senseurs</orig><reg>les censeurs</reg></choice>
+
+<choice><orig>d'Ile Cracovitch</orig><reg>Odile Krakovitch</reg></choice>
+
+<choice><orig>les senseurs</orig><reg>les censeurs</reg></choice>
+
+<choice><orig>varent en</orig><reg>avant</reg></choice>
+
+<choice><orig>à dire quelques 9000 pièces et de chansons</orig><reg>ont à lire quelques 9000 pièces et chansons</reg></choice>
+
+<choice><orig>il y a plusieurs centaines de cas que les concerts ont la plupart changé de répertoire</orig><reg>il y a plusieurs centaines de café-concerts dont la plupart change de répertoire</reg></choice>
+
+
 
 
 
